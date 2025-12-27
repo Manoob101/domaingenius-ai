@@ -1,0 +1,27 @@
+{
+  "name": "domaingenius-ai",
+  "version": "1.0.0",
+  "description": "AI Domain Name Generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manoob101/domaingenius-ai.git"
+  },
+  "author": "Manu",
+  "scripts": {
+    "start": "parcel index.html --port 1234",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@google/genai": "*",
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "parcel": "^2.10.3",
+    "process": "^0.11.10",
+    "typescript": "^5.0.0"
+  }
+}

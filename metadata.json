@@ -1,0 +1,5 @@
+{
+  "name": "DomainGenius AI",
+  "description": "An intelligent domain name generator powered by Gemini. Generate creative 1, 2, or 3-word domain names and simulate availability checks instantly.",
+  "requestFramePermissions": []
+}
